@@ -20,6 +20,5 @@ Features include, but are not limited to:
 - DC-jack, for powering at home, the office, your toilet, the portable toilet you have at work, any place really that has electricity... (9-36v, center positive, 5mm jack)
 - USB-mini port for reprogramming (this does not power the badge!)
 
-SELECT AN OPTION, EITHER KIT OR PRE-ASSEMBLED
 PLEASE NOTE:
 FOR KIT VERSIONS, a hot-air rework station and / or reflow oven are HIGHLY recommended. The smallest parts are 0402, which can be soldered by hand, but I wouldn't recommend it... unless you enjoy punishing yourself ;-)
